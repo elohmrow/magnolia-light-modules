@@ -1,0 +1,5 @@
+version: 5.5.7
+
+dependencies:
+    training-templating-foundation:
+        version: 5.5.7/*
