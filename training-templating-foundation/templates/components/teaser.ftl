@@ -20,6 +20,7 @@
             [/#if]
             
             <a href="${cmsfn.link(targetPage)!}">${i18n['teaser.link.readon']}</a>
+            [#-- <a href="${cmsfn.link(targetPage)!}">Read On</a> --]
             
         </div>
     [#elseif cmsfn.editMode]

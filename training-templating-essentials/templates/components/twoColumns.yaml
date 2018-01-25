@@ -21,3 +21,7 @@ areas:
         id: training-templating-foundation:components/textImage
       twoColumns:
         id: training-templating-essentials:components/twoColumns
+
+parameters:
+  divColLeft: col-sm-8
+  divColRight: col-sm-4
